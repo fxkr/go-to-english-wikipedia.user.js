@@ -5,6 +5,7 @@
 // @include        https://*.wikipedia.org/wiki/*
 // @exclude        https://en.wikipedia.org/*
 // @version        1.0
+// @downloadURL    https://raw.githubusercontent.com/fxkr/go-to-english-wikipedia.user.js/master/go-to-english-wikipedia.user.js
 // @run-at         document-end
 // ==/UserScript==
 
