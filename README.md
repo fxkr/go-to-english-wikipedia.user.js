@@ -10,7 +10,7 @@ Also responds to `[Space]` [access key](https://en.wikipedia.org/wiki/Access_key
 
 Author: `Felix Kaiser <felix.kaiser@fxkr.net>`  
 License: revised BSD (see LICENSE)  
-Version: 1.0  
+Version: 1.1  
 
 
 ## Screenshot
