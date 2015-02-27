@@ -4,6 +4,8 @@
 //                 Also responds to [Space] access key (Chrome: [Alt]+[Space], Firefox: [Alt]+[Shift]+[Space], Mac: [Ctrl]+[Alt]+[Space]).
 // @include        https://*.wikipedia.org/wiki/*
 // @exclude        https://en.wikipedia.org/*
+// @include        http://*.wikipedia.org/wiki/*
+// @exclude        http://en.wikipedia.org/*
 // @version        1.0
 // @downloadURL    https://raw.githubusercontent.com/fxkr/go-to-english-wikipedia.user.js/master/go-to-english-wikipedia.user.js
 // @run-at         document-end
